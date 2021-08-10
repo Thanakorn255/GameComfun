@@ -1,0 +1,183 @@
+﻿  Animation.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Animation.cpp(23,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Animation.cpp(24,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  background.cpp
+  Boss.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Boss.cpp(9,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Boss.cpp(9,30): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Boss.cpp(7,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Boss.cpp(41,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Buff.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Buff.cpp(14,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Buff.cpp(13,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Bullet.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bullet.cpp(45,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Bomber.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(7,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(7,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(13,33): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(17,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(21,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Bomber.cpp(21,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Collision.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(72,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(74,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(77,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(77,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(78,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(78,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(142,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(143,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(143,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Collision.cpp(144,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  eBullets.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\eBullets.cpp(30,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Enemy.cpp(25,29): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Enemy.cpp(27,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Enemy.cpp(27,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Enemy.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(15,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(15,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(628,15): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(633,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(638,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Game.cpp(643,16): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Player.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Player.cpp(43,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Textbox.cpp
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Textbox.cpp(37,3): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS\source\repos\ProjectGame\ProjectGame\Textbox.cpp(56,24): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 851 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProjectGame.vcxproj -> C:\Users\ASUS\source\repos\ProjectGame\Release\ProjectGame.exe
